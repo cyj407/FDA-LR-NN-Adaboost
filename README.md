@@ -1,4 +1,4 @@
-# Fundamental Data Analysis
+# Fundamental Data Analysis - Logistic Regression, Neural Networks, Adaboost
 ## Dataset
 - [S&P 500](https://www.sharecast.com/index/SP_500/prices/download)
     - Training set (02-Jan-2009~29-Dec-2017)
@@ -7,10 +7,14 @@
 
 ## Predict Result
 - Predict Close Price is up or down.
+- [Report](https://github.com/cyj407/FDA-hw3-1/blob/master/Report.pdf)
 ### S&P 500
 - Accuarcy : Logistic Regression(82%) > Adaboost(55%) > Neural Networks(53%)
+- [Code](https://github.com/cyj407/FDA-hw3-1/blob/master/S%26P500_lr_nn_boost.ipynb)
 ### Google Stock Price
 - Accuracy : Logistic Regression(75%) > Neural Networks(60%) > Adaboost(45%)
+- [Code](https://github.com/cyj407/FDA-hw3-1/blob/master/GoogleStockDataset.ipynb)
+
 
 ## Requirements
 - sklearn
