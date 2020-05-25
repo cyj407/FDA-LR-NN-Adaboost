@@ -9,10 +9,10 @@
 - Predict Close Price is up or down.
 - [Report](https://github.com/cyj407/FDA-hw3-1/blob/master/Report.pdf)
 ### S&P 500
-- Accuarcy : Logistic Regression(82%) > Adaboost(55%) > Neural Networks(53%)
+- Accuarcy : Adaboost(83%) > Logistic Regression(82%) > Neural Networks(80%)
 - [Code](https://github.com/cyj407/FDA-hw3-1/blob/master/S%26P500_lr_nn_boost.ipynb)
 ### Google Stock Price
-- Accuracy : Logistic Regression(75%) > Neural Networks(60%) > Adaboost(45%)
+- Accuracy : Logistic Regression(75%) > Adaboost(65%) > Neural Networks(60%)
 - [Code](https://github.com/cyj407/FDA-hw3-1/blob/master/GoogleStockDataset.ipynb)
 
 
